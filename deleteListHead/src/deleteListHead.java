@@ -30,7 +30,7 @@ class deleteListHead {
 
         head = push(head, 12);
         head = push(head, 0);
-        head = push(head, 11);
+        head = push(head, 10);
         head = push(head, 23);
         head = push(head, 1);
 
