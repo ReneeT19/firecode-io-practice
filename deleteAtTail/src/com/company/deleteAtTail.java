@@ -7,6 +7,7 @@ public class deleteAtTail {
         Node next;
     };
 
+
     // Function to remove the last node
     // of the linked list /
     static Node removeLastNode(Node head)
